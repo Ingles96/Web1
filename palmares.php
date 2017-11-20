@@ -16,6 +16,9 @@ if ($conexion->connect_errno) {
   }else {
 }
 
+getclientes(){
+  
+}
 
 ?>
 
